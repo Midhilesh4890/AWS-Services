@@ -1,0 +1,7 @@
+.vscode
+.pycache
+.csv
+.parquet
+.env
+.venv
+
